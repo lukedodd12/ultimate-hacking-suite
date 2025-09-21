@@ -1,0 +1,9 @@
+# Python dependencies for pip-installable tools
+sqlmap==1.9.9
+sherlock-project==0.15.0
+xsstrike==3.1.5
+requests==2.31.0
+beautifulsoup4==4.12.3
+torpy==1.1.6
+theHarvester==4.6.0
+# Note: Run ./install_tools.sh for system tools (nmap, metasploit, etc.)
